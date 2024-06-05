@@ -1,7 +1,10 @@
 .vscode/*
 .DS_Store
 langchain-poc/.ipynb_checkpoints
-langchain-poc/csv/*
-langchain-poc/resumes/*
+csv/*
+resumes/*
 *.env
+*.env.example
+*.env.local
+*.env.staging
 *.ipynb
