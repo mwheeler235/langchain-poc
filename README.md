@@ -7,4 +7,4 @@ For testing the functionality of Langchain and OpenAI
 For #1, yes quite easily.
 For #2, apparently pretty well!
 
-![screenshot](OpenAI Song about LLM.png)
+<img src="https://github.com/mwheeler235/langchain-poc/blob/main/OpenAI%20Song%20about%20LLM.png" width=40% height=40%>
